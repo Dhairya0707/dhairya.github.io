@@ -1,0 +1,24 @@
+[
+  {
+    "id": "cashly",
+    "title": "Cashly",
+    "desc": "Game money tracker for Indian games",
+    "cover": "https://your-image-url.png",
+    "longDesc": "Markdown supported long desc...",
+    "github": "https://github.com/dhairyadarji/cashly",
+    "website": "https://cashly.web.app",
+    "tags": ["Flutter", "Firebase"],
+    "isFeatured": true
+  },
+  {
+    "id": "conversion-ai",
+    "title": "Conversion-AI",
+    "desc": "Gemini-based HTML chatbot generator",
+    "cover": "https://your-image-url2.png",
+    "longDesc": "Detailed markdown supported description...",
+    "github": "",
+    "website": "https://conversion-ai.vercel.app",
+    "tags": ["Flutter", "AI", "Gemini"],
+    "isFeatured": false
+  }
+]
